@@ -138,7 +138,7 @@ footer {
 }
 
 /* Responsive */
-@media (max-width: 60px) {
+@media (max-width: 600px) {
   header {
     flex-direction: column;
     text-align: center;
